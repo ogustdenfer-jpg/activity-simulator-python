@@ -1,0 +1,4 @@
+flet
+pyautogui
+psutil
+pygetwindow
